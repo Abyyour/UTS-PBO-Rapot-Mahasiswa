@@ -3,18 +3,18 @@ Aplikasi Rapot Mahasiswa
 
 Aplikasi GUI desktop untuk mengelola data penilaian mahasiswa dengan fitur CRUD, filtering, dan integrasi database MySQL. Dibuat menggunakan arsitektur MVP (Model–View–Presenter) agar kode rapi, mudah dikembangkan, dan terstruktur.
 
-Fitur Utama
-Tambah data mahasiswa
-Update data
-Hapus data
+Fitur Utama:
+Tambah data mahasiswa,
+Update data,
+Hapus data,
 Filter berdasarkan:
-    Angkatan (berdasarkan 2 digit awal NIM)
-    Program Studi (Prodi)
-    Mata Kuliah
-Refresh data otomatis setelah CRUD
-Konversi nilai angka → huruf (A–E)
-Database MySQL
-GUI modern menggunakan CustomTkinter
+    Angkatan (berdasarkan 2 digit awal NIM),
+    Program Studi (Prodi),
+    Mata Kuliah,
+Refresh data otomatis setelah CRUD,
+Konversi nilai angka → huruf (A–E),
+Database MySQL,
+GUI modern menggunakan CustomTkinter,
 
 Tampilan GUI
   Input data mahasiswa
@@ -41,4 +41,5 @@ NIM: 240105003
 
 📁 Link Repository GitHub
 🔗 https://github.com/Abyyour/UTS-PBO-Rapot-Mahasiswa
+
 

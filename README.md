@@ -1,6 +1,3 @@
-Siap Abil! Aku buatin **README.md versi profesional**, rapi, lengkap, dan cocok banget buat dinilai dosen (nilai tambah CLEAN ARCHITECTURE + MVP).
-Tinggal copy–paste ke GitHub ➝ klik README.md ➝ edit.
-
 ---
 
 # ✅ **README.md — Aplikasi Rapot Mahasiswa (UTS PBO)**
@@ -123,7 +120,3 @@ NIM: *240105003*
 🔗 [https://github.com/Abyyour/UTS-PBO-Rapot-Mahasiswa](https://github.com/Abyyour/UTS-PBO-Rapot-Mahasiswa)
 
 ---
-
-Kalau mau versi README yang ada gambar/screenshots, tinggal bilang:
-👉 **"Tambahkan screenshot ke README"**
-NTAR aku buatin yang lebih keren lagi 😎🔥
